@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カリフォルニア・ガールズ",
+  "base_artist": "Katy Perry",
+  "createdAt": "2026-02-21T22:37:48.300407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カリフォルニア・ガールズ",
+      "artist": "デイヴィッド・リー・ロス",
+      "has_synced": false,
+      "path": "select/01_カリフォルニア・ガールズ_デイヴィッド・リー・ロス.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "California Gurls (Feat. Snoop Dogg)",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/pl_01_California_Gurls_(Feat._Snoop_Dogg)_Katy_Perry.txt"
+    }
+  ]
+}
